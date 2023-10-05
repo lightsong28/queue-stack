@@ -31,3 +31,5 @@ queue[front] = None
 print('*식사손님:', data)
 
 print('출구<----', queue, '<----입구')
+
+print('출구---->', queue, '입구---->')
